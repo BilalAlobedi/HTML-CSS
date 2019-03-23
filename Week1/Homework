@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Homework</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+    <div id="container">
+        <header>
+
+            <h1>HOMEWORK</h1>
+
+            <div class="head">
+
+                <div id="eye"></div>
+                <div id="eye2"></div>
+            </div>
+
+
+        </header>
+        <section class="color2">
+            <main>
+                <div id="ze2"></div>
+
+            <h2> Personel info</h2>
+                <div class="pic"></div>
+
+
+                <p>Name: Bilal </p>
+                <p>Place: At school</p>
+
+                <p>I am:A normal person and i love study just for fun <br> Education: Nothing</p>
+                <p>Work: Never</p>
+                <nav>
+
+                    <ul> Easy Learning Methods
+                        <li>Study new thinks to make old thinks looks easy</li>
+                        <li> And watch other people how they learn<video src="img/How%20to%20Learn%20to%20Code.mp4" width="200px" controls height="100px"></video></li>
+
+                    </ul>
+                    <ul> About HYF
+                        <li><a href="https://www.bruzz.be/tag/hack-your-future">HYF info</a></li>
+                        <li><a href="https://www.hackyourfuture.net/about/">Hack your feature web site</a></li>
+                    </ul>
+                </nav>
+
+
+            </main>
+
+        </section>
+        <footer id="foot"><h3>END</h3></footer>
+    </div>
+</body></html>
